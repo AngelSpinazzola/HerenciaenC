@@ -1,0 +1,73 @@
+# depslib dependency file v1.0
+1694378543 source:c:\users\angel\onedrive\documentos\utn - angel\cuatrimestre - agosto 2023 - angel\programación ll - agosto 2023\tp3\ejercicio 5 - inmobiliaria\inmobiliaria\inmobiliaria.cpp
+	<iostream>
+	<clocale>
+	"Inmobiliaria.h"
+
+1694229695 c:\users\angel\onedrive\documentos\utn - angel\cuatrimestre - agosto 2023 - angel\programación ll - agosto 2023\tp3\ejercicio 5 - inmobiliaria\inmobiliaria\inmobiliaria.h
+	"Direccion.h"
+	"Fecha.h"
+
+1694379496 source:c:\users\angel\onedrive\documentos\utn - angel\cuatrimestre - agosto 2023 - angel\programación ll - agosto 2023\tp3\ejercicio 5 - inmobiliaria\inmobiliaria\main.cpp
+	<iostream>
+	"Inmobiliaria.h"
+	"Casa.h"
+	"Departamento.h"
+	"Local.h"
+	"Terreno.h"
+
+1694226368 source:c:\users\angel\onedrive\documentos\utn - angel\cuatrimestre - agosto 2023 - angel\programación ll - agosto 2023\tp3\ejercicio 5 - inmobiliaria\inmobiliaria\direccion.cpp
+	<iostream>
+	<clocale>
+	<string.h>
+	"Direccion.h"
+
+1694218882 c:\users\angel\onedrive\documentos\utn - angel\cuatrimestre - agosto 2023 - angel\programación ll - agosto 2023\tp3\ejercicio 5 - inmobiliaria\inmobiliaria\direccion.h
+	"CargarCadena.h"
+
+1694216774 source:c:\users\angel\onedrive\documentos\utn - angel\cuatrimestre - agosto 2023 - angel\programación ll - agosto 2023\tp3\ejercicio 5 - inmobiliaria\inmobiliaria\cargarcadena.cpp
+	<iostream>
+	<clocale>
+	"CargarCadena.h"
+
+1694216716 c:\users\angel\onedrive\documentos\utn - angel\cuatrimestre - agosto 2023 - angel\programación ll - agosto 2023\tp3\ejercicio 5 - inmobiliaria\inmobiliaria\cargarcadena.h
+
+1694226931 c:\users\angel\onedrive\documentos\utn - angel\cuatrimestre - agosto 2023 - angel\programación ll - agosto 2023\tp3\ejercicio 5 - inmobiliaria\inmobiliaria\fecha.h
+
+1694226240 source:c:\users\angel\onedrive\documentos\utn - angel\cuatrimestre - agosto 2023 - angel\programación ll - agosto 2023\tp3\ejercicio 5 - inmobiliaria\inmobiliaria\fecha.cpp
+	<iostream>
+	<clocale>
+	"Fecha.h"
+
+1694377275 source:c:\users\angel\onedrive\documentos\utn - angel\cuatrimestre - agosto 2023 - angel\programación ll - agosto 2023\tp3\ejercicio 5 - inmobiliaria\inmobiliaria\casa.cpp
+	<iostream>
+	<clocale>
+	"Casa.h"
+
+1694228354 c:\users\angel\onedrive\documentos\utn - angel\cuatrimestre - agosto 2023 - angel\programación ll - agosto 2023\tp3\ejercicio 5 - inmobiliaria\inmobiliaria\casa.h
+	"Inmobiliaria.h"
+
+1694377275 source:c:\users\angel\onedrive\documentos\utn - angel\cuatrimestre - agosto 2023 - angel\programación ll - agosto 2023\tp3\ejercicio 5 - inmobiliaria\inmobiliaria\departamento.cpp
+	<iostream>
+	<clocale>
+	"Departamento.h"
+
+1694376701 c:\users\angel\onedrive\documentos\utn - angel\cuatrimestre - agosto 2023 - angel\programación ll - agosto 2023\tp3\ejercicio 5 - inmobiliaria\inmobiliaria\departamento.h
+	"Inmobiliaria.h"
+
+1694377915 c:\users\angel\onedrive\documentos\utn - angel\cuatrimestre - agosto 2023 - angel\programación ll - agosto 2023\tp3\ejercicio 5 - inmobiliaria\inmobiliaria\local.h
+	"Inmobiliaria.h"
+
+1694378428 source:c:\users\angel\onedrive\documentos\utn - angel\cuatrimestre - agosto 2023 - angel\programación ll - agosto 2023\tp3\ejercicio 5 - inmobiliaria\inmobiliaria\local.cpp
+	<iostream>
+	<clocale>
+	"Local.h"
+
+1694379250 source:c:\users\angel\onedrive\documentos\utn - angel\cuatrimestre - agosto 2023 - angel\programación ll - agosto 2023\tp3\ejercicio 5 - inmobiliaria\inmobiliaria\terreno.cpp
+	<iostream>
+	<clocale>
+	"Terreno.h"
+
+1694379250 c:\users\angel\onedrive\documentos\utn - angel\cuatrimestre - agosto 2023 - angel\programación ll - agosto 2023\tp3\ejercicio 5 - inmobiliaria\inmobiliaria\terreno.h
+	"Inmobiliaria.h"
+
